@@ -3,7 +3,7 @@
 ### About me
 
 - 🎓 Data Science and Engineering student at Universitat Politècnica de Catalunya (UPC).
-- 💻 ML/DL Engineer Intern at @ AiBall.
+- 💻 DataScience and ML/DL Engineer Intern at @ AiBall.
 - 💡 Currently studying, working and working on personal projects.
 
 ### Tech Stack 

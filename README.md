@@ -25,6 +25,5 @@
 <h3 align="center">Let's get in touch!</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ignacio-gris-martin-68a57725a/"><img align="center" alt="Nacho Gris | LinkedIn" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=LINKEDIN&logoColor=white"/>
-    <a href="mailto:nachogrismartin@gmail.com"><img align="center" alt="Nacho Gris | Gmail" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white
-"/>
+    <a href="mailto:nachogrismartin@gmail.com"><img align="center" alt="Nacho Gris | Gmail" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
